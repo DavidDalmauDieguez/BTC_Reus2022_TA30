@@ -1,0 +1,2 @@
+//Almacenar el mensaje en una variable, usando \n \' y \" para mostrar los caracteres y hacer salto de línea
+var mensaje = alert("Hola Mundo! \n Qué facil es incluir \'comillas simples\' \n y \" comillas dobles\"");
